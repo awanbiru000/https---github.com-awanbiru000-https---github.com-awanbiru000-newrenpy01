@@ -16,7 +16,6 @@ define text_prolog_larasati=[
     "Aku mau"
     "coba"
     "coba-coba"
-    "ini coba jahit"
 ]
 
 
