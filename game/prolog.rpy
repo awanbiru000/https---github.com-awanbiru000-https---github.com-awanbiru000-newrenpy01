@@ -14,8 +14,6 @@ define text_prolog_larasati=[
     "Tapi kenapa batik ?",
     "Begitu, Menjahit itu gampang tidak bu ?",
     "Aku mau"
-    "coba"
-    "coba-coba"
 ]
 
 
