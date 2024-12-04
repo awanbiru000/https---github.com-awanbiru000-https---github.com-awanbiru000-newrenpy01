@@ -15,6 +15,8 @@ define text_prolog_larasati=[
     "Begitu, Menjahit itu gampang tidak bu ?",
     "Aku mau"
     "coba ini....."
+    "coba ini bisa gak....."
+    
 ]
 
 
