@@ -13,6 +13,7 @@ define larasati_story_2=[
     "Coba-coba"
     "ini dialog baru"
     "ini dialog dari main cabang"
+    "ini percobaan "
     #(Larasati mencoba untuk tidak panik dan tetap tenang)
     #(Serta memperhatikan sekelilingnya)
     #(Banyak sekali batang-batang pohon dan rumput yang tinggi)
