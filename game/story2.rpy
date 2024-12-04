@@ -12,6 +12,7 @@ define larasati_story_2=[
     "Kenapa aku bisa ada disini ?",
     "Coba-coba"
     "ini dialog baru"
+    "ini cabang-dua"
     #(Larasati mencoba untuk tidak panik dan tetap tenang)
     #(Serta memperhatikan sekelilingnya)
     #(Banyak sekali batang-batang pohon dan rumput yang tinggi)
