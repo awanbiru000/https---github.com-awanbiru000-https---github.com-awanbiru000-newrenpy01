@@ -11,6 +11,7 @@ define larasati_story_2=[
     "Perasaan aku baru saja ada di gudang rumah",
     "Kenapa aku bisa ada disini ?",
     "Coba-coba"
+    "ini dialog baru"
     #(Larasati mencoba untuk tidak panik dan tetap tenang)
     #(Serta memperhatikan sekelilingnya)
     #(Banyak sekali batang-batang pohon dan rumput yang tinggi)
