@@ -10,6 +10,7 @@ define larasati_story_2=[
     "Ini dimana ?",
     "Perasaan aku baru saja ada di gudang rumah",
     "Kenapa aku bisa ada disini ?",
+    "Coba-coba"
     #(Larasati mencoba untuk tidak panik dan tetap tenang)
     #(Serta memperhatikan sekelilingnya)
     #(Banyak sekali batang-batang pohon dan rumput yang tinggi)
